@@ -16,7 +16,7 @@ import { AuthState, onAuthUIStateChange } from "@aws-amplify/ui-components";
 // @ts-ignore
 //import awsConfig from "../aws-exports";
 
-Amplify.configure(awsConfig);
+//Amplify.configure(awsConfig);
 
 // @ts-ignore
 if (window.Cypress) {
